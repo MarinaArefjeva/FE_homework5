@@ -25,27 +25,27 @@
 //         console.log(num1 * num2);
 
 //     } else{
-//         console.log("Ziffern sind gleich");
+//         console.log("Числа равны");
 //     }
 
 // 4)
-// const num3 =Number(prompt("Nennen Sie eine Zahl"));
+// const num3 =Number(prompt("Назовите число"));
 
 // if (num3 < 0) {
 //     console.log(num3 * num3);
 // } else {
-//     console.log("Fehler");
+//     console.log("Неверно");
 // }
 
 // 5)
 
-// const students = prompt("Anzahl der Schüller in der Klasse");
-// const chairs = prompt("Anzahl der Stühle im Klassenraum");
+// const students = prompt("Кол-во учеников  в классе");
+// const chairs = prompt("Кол-во учеников в классе");
 
 // if (students < chairs); {
-//     console.log("genung Stühle");
+//     console.log("достаточно стульев");
 // }   if (students > chairs) {
-//     console.log("nicht genügend Stühle");
+//     console.log("недостаточно стульев");
 // }
 
 // 6)
